@@ -7,5 +7,5 @@ Practice creating API using Django
 Create `.env`:
 
 ```bash
-POSTGRES_USER_NAME=tsasaki
+POSTGRES_USER_NAME=<your user name>
 ```
